@@ -28,9 +28,10 @@ I'm (Alexa) [Manheng Wang](https://manhengwang.github.io/), a Computer Science a
 - I love table tennis 🏓 (I am lefty!!)
 - [NCTTA](http://www.nctta.org/) National Championships player
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ManhengWang&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManhengWang&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/ManhengWang/github-stats">
+<img src="https://raw.githubusercontent.com/ManhengWang/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/ManhengWang/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 
 🎉 **Let's connect and build amazing things together!**
 
