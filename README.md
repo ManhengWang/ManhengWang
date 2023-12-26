@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<div style="text-align:center">
+    <img src="cow.png" alt="My Cow!" width="700"/>
+</div>
 
 
 # Hello, World! 👋
